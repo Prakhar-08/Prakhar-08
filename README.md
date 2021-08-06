@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Rastogi</h1>
 <h3 align="center">A passionate learner, who loves to explore new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-08&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar-08" alt="prakhar-08" /></a> </p>
-
 - 🔭 I’m currently working on [Devsnest Projects](https://github.com/Prakhar-08/Devsnest)
 
 - 🌱 I’m currently learning **C++, Development**
@@ -30,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar-08&show_icons=true&locale=en&layout=compact" alt="prakhar-08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar-08&show_icons=true&locale=en" alt="prakhar-08" /></p>
-
